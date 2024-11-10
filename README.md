@@ -27,19 +27,3 @@ npm run eject
 Note: This is a one-way operation. Once you eject, you can't go back!
 
 If you are not satisfied with the default configurations, you can eject at any time. This command will copy all the configuration files (like Webpack, Babel, ESLint, etc.) into your project, giving you full control over them. After ejecting, you must manage all the configurations manually.
-
-You generally do not need to eject unless you require custom configuration.
-
-Learn More
-You can learn more in the official Express documentation.
-
-To learn about REST APIs, check out the Express.js guide and other backend development resources.
-
-Database Integration
-This section has information about how the backend integrates with the database (e.g., MySQL or MongoDB) and how data is handled.
-
-Deployment
-This section has instructions on how to deploy the backend to platforms such as Heroku, AWS, or others.
-
-Troubleshooting
-This section includes common issues and how to resolve them when running the backend server.
